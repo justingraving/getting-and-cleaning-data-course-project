@@ -26,7 +26,7 @@ These signals were used to estimate variables of the feature vector for each pat
 ###Variables
 
 | Original Version| Descriptive version   |
-|-----+-------|
+|----- | -------|
 | tBodyAcc-XYZ  | timeBodyAccelerometer |
 | tGravityAcc-XYZ  | timeGravityAccelerometer  |
 | tBodyAccJerk-XYZ  | timeBodyAccelerometerJerk
